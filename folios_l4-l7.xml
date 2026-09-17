@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+               <title xml:id="lcc_folio_l5-l7">Fragmento de El lazarillo de ciegos caminantes - página l5</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Joaquin Carrizo</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales UTDT</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<p>só<pb n="l5"/>lo les fatiga el calor del sol, por lo que regularmente paran a las diez del día, y cada <note xml:id="l5n1">picador</note>, después de hecho el rodeo, que es a proporción del número de carretas, desunen sus cuatro bueyes con gran <note xml:id="l5n2">presteza</note> y el bueyero los junta con las remudas para que coman, beban y descansen a lo menos hasta las cuatro de la tarde. En estas seis horas, poco más o menos, se hace de comer para la gente, contentándose los peones con asar mal cada uno un buen trozo de carne. Matan su res si hay necesidad y también dan sebo a las mazas de las ruedas, que todo ejecutan con mucha velocidad. Los pasajeros se ponen a la sombra de los elevados árboles unos y otros a la que hacen las carretas, que por su elevación es dilatada; pero la más segura permanente, y con ventilación, será pareando dos carretas de modo que quepa otra en el medio. Se atraviesan sobre las altas toldas dos o tres picanas y sobre ellas se extiende la carpa o toldo para atajar los rayos del sol y se forma un techo campestre capaz de dar sombra cómodamente a ocho personas. Algunos llevan sus taburetitos de una doble tijera, con sus asientos de baqueta o lona. Este género lo tengo por mejor, porque, aunque se moje, se se<pb n="l6"/>ca fácilmente, y no queda tan tieso y expuesto a rasgarse como la <note xml:id="l6n1">baqueta</note>, porque estos muebles los acomodan siempre los peones en la <note xml:id="l6n2">toldilla</note>, a un lado de la caja, de la banda de afuera, por lo que se mojan y muchas veces se rompen con las ramas que salen al camino real, de los árboles de corta altura, por lo que el curioso podrá tomar el partido de acomodarlos dentro de su carreta o carretón, como asimismo la mesita de campaña, que es muy cómoda para comer, leer y escribir.</p>
+<p>A las cuatro de la tarde se da principio a caminar y se para segunda vez el tiempo suficiente para hacer la cena, porque en caso de estar la noche clara y el camino sin estorbos, vuelven a unir a las once de la noche y se camina hasta el amanecer, y mientras se remudan los bueyes hay lugar para desayunarse con chocolate, mate o alguna <note xml:id= "l6n3">fritanguilla</note> ligera para los aficionados a <note xml:id="l6n4">aforrarse</note> más sólidamente, porque a la hora se vuelve a caminar hasta las diez del día. Los <note xml:id="l6n5">poltrones</note> se mantienen en el carretón o carreta con las ventanas y puerta abiertas, leyendo u observando la calidad del camino y demás que se presenta a la vista. Los alentados y más<pb n="l7"/></p><!--cierre de párrafo falso, continua en el número siguiente-->
+
+</body>
+</text>
+</TEI>
